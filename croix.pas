@@ -1,4 +1,4 @@
-PROGRAM LaCroix_Isabelle;
+PROGRAM LaCroix;
 
 {
 ALGO:Croix
